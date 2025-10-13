@@ -26,7 +26,7 @@ Remote VM IP: Any desired IP can be set.
 
 Detection Algorithms:
 1. Password Guess:
-Whenever there are multiple i.e. 5 failed login attempts of User "Sana" in less than 1 minute, Alert will be generated.
+Whenever there are multiple i.e. 5 failed login attempts of a User in less than 1 minute, Alert will be generated.
 2. Remote Login:
 If any user remotely logs into Agent VM with IP "192.168.50.5" from Remote machine with IP outside of allowed range i.e. 192.168.50.10 - 192.168.50.20. Alert will be generated.
 3. Non Office Hours Login:
